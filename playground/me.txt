@@ -1,0 +1,5 @@
+{{#user}}
+Name: janvi hood
+Skills: HTML, CSS, JS, Next.js
+Email: hoodjanvi@gmail.com
+{{user}}
